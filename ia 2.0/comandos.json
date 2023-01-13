@@ -1,0 +1,42 @@
+{
+    "comandos":[
+
+        {
+            "tag":"Comprimentos",
+            "patterns":["Olá", "Oi", "Hey", "acorde", "está ai", "Emma","Ema"
+
+            ],
+            "responses":[ "Olá", "como está você","sim", "na escuta", "como posso ajudar?", "do que precisa?"
+
+            ]
+        },
+        {
+            "tag":"despedida",
+            "patterns":["ate mais", "desligar", "dormir", "encerrar", "tchau"
+
+            ],
+            "responses":[ "tudo bem!", "encerrando protocolos","desligando", "sempre que precisar só chamar", "até mais"
+
+            ]
+        },
+        {
+            "tag":"saude",
+            "patterns":["como está", "como vai", "como você está", "está tudo bem?"
+
+            ],
+            "responses":[ "Perfeita", "estou sim","claro", "estou sim afinal sou uma máquina, não fico doente"
+
+            ]
+        }
+
+
+
+
+
+
+    ]
+
+
+
+
+}
